@@ -1,0 +1,36 @@
+# OS generated files #
+######################
+.AppleDB
+.AppleDesktop
+.AppleDouble
+.DS_Store
+.DS_Store?
+.LSOverride
+._*
+.apdisk
+.directory
+.fuse_hidden*
+.fseventsd
+.DocumentRevisions-V100
+.Spotlight-V100
+.TemporaryItems
+.Trash-*
+.Trashes
+.VolumeIcon.icns
+ehthumbs.db
+Desktop.ini
+Network Trash Folder
+Temporary Items
+Thumbs.db
+*.lnk
+*~
+$RECYCLE.BIN/
+
+# IDE #
+#######
+.idea
+.netrwhist
+.project
+.projectile
+nbproject/
+Session.vim

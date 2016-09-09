@@ -1,0 +1,51 @@
+"*":
+  "atom-autocomplete-php": {}
+  "atom-beautify":
+    general:
+      _analyticsUserId: "ba7e3f11-54ef-4392-9680-0a5e6a62b169"
+      analytics: false
+    php:
+      level: "symfony"
+  core:
+    disabledPackages: []
+  editor:
+    invisibles: {}
+    tabLength: 4
+  "exception-reporting":
+    userId: "db821c21-5892-0279-3e5c-f436c45b8449"
+  "git-history": {}
+  linter: {}
+  "linter-php": {}
+  "one-dark-ui":
+    layoutMode: "Spacious"
+  "php-cs-fixer":
+    level: "symfony"
+  "php-debug":
+    PathMaps: [
+      "remotepath;localpath"
+    ]
+    ServerPort: 9001
+  "php-getters-setters":
+    generateSettersFirst: true
+  "split-diff":
+    diffWords: true
+    ignoreWhitespace: true
+    leftEditorColor: "red"
+    rightEditorColor: "green"
+    syncHorizontalScroll: true
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false
+".js.source.twig":
+  editor:
+    tabLength: 4
+".json.source.twig":
+  editor:
+    tabLength: 4
+".source.twig.yaml":
+  editor:
+    tabLength: 4
+".text.twig.xml":
+  editor:
+    tabLength: 4
