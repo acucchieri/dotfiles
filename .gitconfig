@@ -1,12 +1,15 @@
 [user]
-	name = acucchieri
+	name  = acucchieri
 	email = acucchieri@users.noreply.github.com
 [push]
 	default = matching
 [filter "lfs"]
-	clean = git lfs clean %f
-	smudge = git lfs smudge %f
+	clean    = git lfs clean %f
+	smudge   = git lfs smudge %f
 	required = true
 [core]
-	filemode = false
+	filemode     = false
 	excludesfile = ~/.gitignore_global
+[color "status"]
+        added     = green 
+        untracked = magenta
