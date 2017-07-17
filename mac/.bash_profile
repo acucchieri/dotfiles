@@ -4,3 +4,6 @@ alias ll='ls -laG'
 
 # Servers aliases
 alias webdev='ssh -A -t acucchieri@webdev.vm "cd /var/www ; bash"'
+
+# bash completion
+source ~/.bash_completion/git
