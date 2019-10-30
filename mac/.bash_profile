@@ -9,4 +9,4 @@ alias webdev='ssh -A -t acucchieri@webdev.vm "cd /var/www ; bash"'
 source ~/.bash_completion/git
 
 # PHP : Scan this dir for additional .ini files
-export PHP_INI_SCAN_DIR=/usr/local/etc/php.d php
+export PHP_INI_SCAN_DIR=/usr/local/etc/php.d
